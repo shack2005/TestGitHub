@@ -17,3 +17,22 @@ c:\users\mario.castillo\documents\visual studio 2013\Projects\WebApplication2\bi
 c:\users\mario.castillo\documents\visual studio 2013\Projects\WebApplication2\bin\Newtonsoft.Json.xml
 c:\users\mario.castillo\documents\visual studio 2013\Projects\WebApplication2\obj\Debug\WebApplication2.dll
 c:\users\mario.castillo\documents\visual studio 2013\Projects\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\_Restricted\TestGitHub\WebApplication2\bin\WebApplication2.dll.config
+C:\_Restricted\TestGitHub\WebApplication2\bin\WebApplication2.dll
+C:\_Restricted\TestGitHub\WebApplication2\bin\WebApplication2.pdb
+C:\_Restricted\TestGitHub\WebApplication2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\_Restricted\TestGitHub\WebApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\_Restricted\TestGitHub\WebApplication2\bin\Microsoft.Owin.dll
+C:\_Restricted\TestGitHub\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\_Restricted\TestGitHub\WebApplication2\bin\Microsoft.Owin.Security.dll
+C:\_Restricted\TestGitHub\WebApplication2\bin\Newtonsoft.Json.dll
+C:\_Restricted\TestGitHub\WebApplication2\bin\Owin.dll
+C:\_Restricted\TestGitHub\WebApplication2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\_Restricted\TestGitHub\WebApplication2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\_Restricted\TestGitHub\WebApplication2\bin\Microsoft.Owin.xml
+C:\_Restricted\TestGitHub\WebApplication2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\_Restricted\TestGitHub\WebApplication2\bin\Microsoft.Owin.Security.xml
+C:\_Restricted\TestGitHub\WebApplication2\bin\Newtonsoft.Json.xml
+C:\_Restricted\TestGitHub\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\_Restricted\TestGitHub\WebApplication2\obj\Debug\WebApplication2.dll
+C:\_Restricted\TestGitHub\WebApplication2\obj\Debug\WebApplication2.pdb
